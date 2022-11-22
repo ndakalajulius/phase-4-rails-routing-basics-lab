@@ -5,3 +5,4 @@ class Student < ApplicationRecord
   end
 
 end
+ 
